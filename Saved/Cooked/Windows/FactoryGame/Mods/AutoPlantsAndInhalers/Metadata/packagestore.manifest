@@ -1,0 +1,66 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/AutoPlantsAndInhalers/Content/Recipes/Recipe_AutoParachute.uasset",
+			"ChunkId": "6a7201b260a0f61100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/AutoPlantsAndInhalers/Content/Recipes/Recipe_AutoMycelia.uasset",
+			"ChunkId": "ae81dc3d04acd8c800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/AutoPlantsAndInhalers/Content/Recipes/Recipe_AutoMedkit.uasset",
+			"ChunkId": "c02a0b8e715996a700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/AutoPlantsAndInhalers/Content/Recipes/Recipe_AutoBiomass.uasset",
+			"ChunkId": "5725dd835671134700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/AutoPlantsAndInhalers/Content/Schematics/Schem_AutoPAI.uasset",
+			"ChunkId": "2047106c75d551cb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/AutoPlantsAndInhalers/Content/InitGameWorld.uasset",
+			"ChunkId": "64726ac01e98ced700000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/AutoPlantsAndInhalers/Recipes/Recipe_AutoParachute",
+			"ExportBundleChunkIds": [
+				"6a7201b260a0f61100000001"
+			]
+		},
+		{
+			"Name": "/AutoPlantsAndInhalers/Recipes/Recipe_AutoMycelia",
+			"ExportBundleChunkIds": [
+				"ae81dc3d04acd8c800000001"
+			]
+		},
+		{
+			"Name": "/AutoPlantsAndInhalers/Recipes/Recipe_AutoMedkit",
+			"ExportBundleChunkIds": [
+				"c02a0b8e715996a700000001"
+			]
+		},
+		{
+			"Name": "/AutoPlantsAndInhalers/Recipes/Recipe_AutoBiomass",
+			"ExportBundleChunkIds": [
+				"5725dd835671134700000001"
+			]
+		},
+		{
+			"Name": "/AutoPlantsAndInhalers/Schematics/Schem_AutoPAI",
+			"ExportBundleChunkIds": [
+				"2047106c75d551cb00000001"
+			]
+		},
+		{
+			"Name": "/AutoPlantsAndInhalers/InitGameWorld",
+			"ExportBundleChunkIds": [
+				"64726ac01e98ced700000001"
+			]
+		}
+	]
+}
