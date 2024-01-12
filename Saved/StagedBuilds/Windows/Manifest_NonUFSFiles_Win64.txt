@@ -1,0 +1,4 @@
+FactoryGame/Mods/AutoPlantsAndInhalers/AutoPlantsAndInhalers.uplugin	2024-01-12T10:51:46.637Z
+FactoryGame/Mods/AutoPlantsAndInhalers/Resources/Icon128.png	2023-08-17T13:49:57.780Z
+FactoryGame/Mods/AutoPlantsAndInhalers/Resources/Medical_Inhaler_128.png	2023-08-17T13:49:57.781Z
+FactoryGame/Mods/AutoPlantsAndInhalers/Resources/Medicinal_Inhaler_256.webp	2023-08-17T13:49:57.781Z
