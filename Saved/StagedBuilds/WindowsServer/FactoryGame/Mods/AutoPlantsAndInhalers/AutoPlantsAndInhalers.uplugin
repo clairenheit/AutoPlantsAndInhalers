@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.5",
-	"SemVersion": "1.0.5",
+	"VersionName": "1.0.6",
+	"SemVersion": "1.0.6",
 	"FriendlyName": "AutoPlantsAndInhalers",
 	"Description": "This mod allows you to craft mycelia and biomass from limestone, as well as adding a recipe to automate medicinal inhalers.",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.5.0",
+			"SemVersion": "^3.7.0",
 			"Enabled": true
 		}
 	]
